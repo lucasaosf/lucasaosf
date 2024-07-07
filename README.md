@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasaosf
+- 👀 I'm interested in R language and Python used for analysis in the field of Ecology and Taxonomy.
+- 🌱 I'm currently learning R and Python
+- 📫 How to contact me: lucasaosf@gmail.com
