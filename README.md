@@ -43,3 +43,5 @@ Trabalho com ecologia, taxonomia e consultoria ambiental. Uso **R** e **Python**
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Lucas--Aosf-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lucas-Aosf)
 [![Instagram](https://img.shields.io/badge/Instagram-@lucas__aosf-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lucas_aosf)
 [![Email](https://img.shields.io/badge/E--mail-lucasaosf@gmail.com-86602E?style=flat&logo=gmail&logoColor=white)](mailto:lucasaosf@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-anakin__opressor-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
+
