@@ -12,7 +12,7 @@
   <a href="https://discord.com"><img alt="Discord" src="https://img.shields.io/badge/Discord-anakin__opressor-5865F2?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
-## 🌿 Sobre mim
+## 🐸 Sobre mim
 
 Sou biólogo, pesquisador, gestor ambiental, indie maker e programador entusiasta. Trabalho com levantamentos de fauna, ecologia e taxonomia, e uso programação para transformar dados de campo em análises, gráficos, relatórios e para criar ferramentas que facilitam o trabalho de campo.
 
@@ -56,7 +56,7 @@ Sou biólogo, pesquisador, gestor ambiental, indie maker e programador entusiast
   <img alt="eBird" src="https://img.shields.io/badge/eBird-3D7C3F?style=flat">
 </p>
 
-## 🦜 Projeto em destaque: Lista de Campo
+## 🐍 Projeto em destaque: Lista de Campo
 
 <a href="https://github.com/lucasaosf/caderneta-de-campo"><img alt="Lista de Campo — app de listas de espécies" src="https://github.com/lucasaosf/caderneta-de-campo/raw/main/docs/banner.png" width="100%"></a>
 
