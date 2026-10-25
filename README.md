@@ -28,7 +28,7 @@ Sou biólogo, pesquisador e gestor ambiental, à frente da **Pesquisa & Soluçõ
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
@@ -69,7 +69,7 @@ App de listas de espécies para o trabalho de campo: banco com **4.903 espécies
 | Projeto | O que faz | Linguagem |
 |---|---|---|
 | [**consultoria_ambiental**](https://github.com/lucasaosf/consultoria_ambiental) | Riqueza e abundância por ponto, similaridade (Jaccard e Bray-Curtis) e conversão de planilhas do eBird para relatórios ambientais | R |
-| [**IMBio**](https://github.com/lucasaosf/IMBio---Instituto-de-Manejo-da-Biodiversidade) | Gráficos e análises para o Instituto de Manejo da Biodiversidade, como o aumento da riqueza de aves no Parque das Nascentes (2019–2024) | R |
+| [**IMBio**](https://github.com/lucasaosf/IMBio---Instituto-de-Manejo-da-Biodiversidade) | Gráficos para o Instituto de Manejo da Biodiversidade (banner da COP30): temperatura no parque reflorestado × entorno e aumento da riqueza de aves no Parque das Nascentes (2019–2024) | R |
 | [**M_moreirae_distribution**](https://github.com/lucasaosf/M_moreirae_distribution) | Download das ocorrências de *Melanophryniscus moreirae* no GBIF para estudo de distribuição | R |
 
 ---
