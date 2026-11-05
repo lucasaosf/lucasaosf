@@ -82,4 +82,4 @@ App de cubagem florestal e dendrometria para o trabalho de campo: cubagem de cam
 
 ---
 
-<p align="center"><sub><i>Pesquisa &amp; Soluções Ambientais</i> · ciência aplicada à conservação</sub></p>
+<p align="center"><sub><i>BIOKURI · Pesquisa e Soluções Ambientais</i> · ciência aplicada à conservação</sub></p>
