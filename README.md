@@ -35,8 +35,8 @@ Sou biólogo, pesquisador, gestor ambiental, indie maker e programador entusiast
 | Linguagem | Para que uso | Onde |
 |---|---|---|
 | **R** | Análises ecológicas e gráficos: riqueza, abundância, similaridade (Jaccard, Bray-Curtis), rarefação e dados do GBIF | [consultoria_ambiental](https://github.com/lucasaosf/consultoria_ambiental) · [IMBio](https://github.com/lucasaosf/IMBio---Instituto-de-Manejo-da-Biodiversidade) · [M_moreirae_distribution](https://github.com/lucasaosf/M_moreirae_distribution) |
-| **JavaScript** | App Lista de Campo, banco de espécies e gerador de planilhas Excel com análises | [caderneta-de-campo](https://github.com/lucasaosf/caderneta-de-campo) |
-| **HTML e CSS** | Interface do app e páginas na identidade visual da empresa | [caderneta-de-campo](https://github.com/lucasaosf/caderneta-de-campo) |
+| **JavaScript** | Apps Lista de Campo e Cubagem Florestal, catálogo botânico/faunístico e planilhas Excel automáticas | [caderneta-de-campo](https://github.com/lucasaosf/caderneta-de-campo) · [cubagem-florestal](https://github.com/lucasaosf/cubagem-florestal) |
+| **HTML e CSS** | Interface dos apps e páginas na identidade visual da empresa | [caderneta-de-campo](https://github.com/lucasaosf/caderneta-de-campo) · [cubagem-florestal](https://github.com/lucasaosf/cubagem-florestal) |
 | **Java** | Código nativo da versão Android do app | versão Android (repositório privado) |
 | **Python** | Organização e automação de dados | projetos locais |
 
@@ -63,6 +63,14 @@ Sou biólogo, pesquisador, gestor ambiental, indie maker e programador entusiast
 App de listas de espécies para o trabalho de campo: banco com **4.903 espécies do Brasil**, apelidos ligados ao nome científico, contagem com registro visual ou auditivo, trilha GPS e **planilha de análises automática** (riqueza, diversidade, rarefação, similaridade, IPA). Funciona sem internet, no Android e no iPhone.
 
 **[Abrir o app](https://lucasaosf.github.io/caderneta-de-campo/)** · **[Vídeo: como usar](https://lucasaosf.github.io/caderneta-de-campo/como-usar.html)** · [Código](https://github.com/lucasaosf/caderneta-de-campo)
+
+## 🪵 Projeto em destaque: Cubagem Florestal
+
+<a href="https://github.com/lucasaosf/cubagem-florestal"><img alt="Cubagem Florestal — app de cubagem florestal e dendrometria" src="https://github.com/lucasaosf/cubagem-florestal/raw/main/docs/banner.png" width="100%"></a>
+
+App de cubagem florestal e dendrometria para o trabalho de campo: cubagem de caminhões florestais (LE/LD com fatores de empilhamento e cubicação), pilhas de madeira de face única, e toras individuais com cálculo volumétrico pela **Fórmula de Smalian**. Inclui catálogo botânico brasileiro de espécies nativas e exóticas, coordenadas UTM com GPS do aparelho e **exportação de planilhas Excel (.xlsx) padronizadas e automáticas**. Funciona 100% sem internet, no Android e no iPhone.
+
+**[Abrir o app](https://lucasaosf.github.io/cubagem-florestal/)** · [Código](https://github.com/lucasaosf/cubagem-florestal)
 
 ## 📂 Outros projetos
 
