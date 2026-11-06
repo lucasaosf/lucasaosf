@@ -17,6 +17,7 @@
 Sou biólogo, pesquisador, gestor ambiental, indie maker e programador entusiasta. Trabalho com levantamentos de fauna, ecologia e taxonomia, e uso programação para transformar dados de campo em análises, gráficos, relatórios e para criar ferramentas que facilitam o trabalho de campo.
 
 - Levantamento e monitoramento de fauna
+- Taxônomia, Sistemática e Evolução
 - Ecologia de comunidades: riqueza, abundância, diversidade, similaridade e rarefação
 - Distribuição de espécies e bases de biodiversidade (GBIF, eBird)
 - Automação de relatórios e ferramentas para o campo
