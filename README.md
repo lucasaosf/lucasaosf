@@ -4,6 +4,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://lucasaosf.github.io/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-Biokuri-0E2515?style=flat&logo=googlechrome&logoColor=4ECCA3"></a>
   <a href="https://orcid.org/0000-0003-3337-2137"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--3337--2137-A6CE39?style=flat&logo=orcid&logoColor=white"></a>
   <a href="http://lattes.cnpq.br/3193966103707256"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo-Lattes-0E2515?style=flat"></a>
   <a href="https://www.researchgate.net/profile/Lucas-Aosf"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Lucas--Aosf-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
