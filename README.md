@@ -41,7 +41,7 @@ Sou biólogo, pesquisador, gestor ambiental, indie maker e programador entusiast
 | **JavaScript** | Apps Lista de Campo e Cubagem Florestal, catálogo botânico/faunístico e planilhas Excel automáticas | [caderneta-de-campo](https://github.com/lucasaosf/caderneta-de-campo) · [cubagem-florestal](https://github.com/lucasaosf/cubagem-florestal) |
 | **HTML e CSS** | Interface dos apps e páginas na identidade visual da empresa | [caderneta-de-campo](https://github.com/lucasaosf/caderneta-de-campo) · [cubagem-florestal](https://github.com/lucasaosf/cubagem-florestal) |
 | **Java** | Código nativo da versão Android do app | versão Android (repositório privado) |
-| **Python** | Organização e automação de dados | projetos locais |
+| **Python** | Organização, automação de dados e IA local | [robson-assistant-teste](https://github.com/lucasaosf/robson-assistant-teste) · projetos locais |
 
 **Pacotes de R que uso:** `ggplot2` · `vegan` · `iNEXT` · `rgbif` · `dplyr` · `readr` · `readxl` · `openxlsx` · `cluster` · `ape` · `gridExtra`
 
@@ -82,6 +82,7 @@ App de cubagem florestal e dendrometria para o trabalho de campo: cubagem de cam
 | [**consultoria_ambiental**](https://github.com/lucasaosf/consultoria_ambiental) | Riqueza e abundância por ponto, similaridade (Jaccard e Bray-Curtis) e conversão de planilhas do eBird para relatórios ambientais | R |
 | [**IMBio**](https://github.com/lucasaosf/IMBio---Instituto-de-Manejo-da-Biodiversidade) | Gráficos para o Instituto de Manejo da Biodiversidade (banner da COP30): temperatura no parque reflorestado × entorno e aumento da riqueza de aves no Parque das Nascentes (2019–2024) | R |
 | [**M_moreirae_distribution**](https://github.com/lucasaosf/M_moreirae_distribution) | Download das ocorrências de *Melanophryniscus moreirae* no GBIF para estudo de distribuição | R |
+| [**robson-assistant-teste**](https://github.com/lucasaosf/robson-assistant-teste) | [PoC] Assistente virtual de IA local em Python com Ollama, automação Windows e bot com voz neural no Discord | Python |
 
 ---
 
