@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 330" width="880" height="330" role="img" aria-label="GitHub Status Lucas Aøsf: 388 contributions, current streak 6, longest streak 9">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 330" width="880" height="330" role="img" aria-label="GitHub Status Lucas Aøsf: 388 contributions, current streak 0, longest streak 9">
 <defs>
   <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
     <rect width="4" height="1" fill="#4ECCA3" opacity=".03"/>
@@ -43,7 +43,7 @@
 <text y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#F2EBDD">388</text>
 <text y="72" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E846A">since start</text></g><g transform="translate(216 112)"><path d="M-20 -6 V78" stroke="#1B3B24"/>
 <text font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="2" fill="#6E846A">CURRENT STREAK</text>
-<text y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#4ECCA3">6</text>
+<text y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#4ECCA3">0</text>
 <text y="72" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E846A">days in a row</text></g><g transform="translate(392 112)"><path d="M-20 -6 V78" stroke="#1B3B24"/>
 <text font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="2" fill="#6E846A">LONGEST STREAK</text>
 <text y="50" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#F2EBDD">9</text>
