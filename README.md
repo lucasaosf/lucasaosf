@@ -7,7 +7,7 @@
   <a href="https://lucasaosf.github.io/"><img alt="Portfolio Lucas Aøsf" src="https://img.shields.io/badge/Portfolio-Lucas_Aøsf-0E2515?style=flat&logo=googlechrome&logoColor=4ECCA3"></a>
   <a href="https://www.linkedin.com/in/lucas-aosf-307922189"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas_Aosf-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://orcid.org/0000-0003-3337-2137"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--3337--2137-A6CE39?style=flat&logo=orcid&logoColor=white"></a>
-  <a href="http://lattes.cnpq.br/3193966103707256"><img alt="Lattes CV" src="https://img.shields.io/badge/Lattes_CV-CNPq-0E2515?style=flat"></a>
+  <a href="https://lattes.cnpq.br/3193966103707256"><img alt="Lattes CV" src="https://img.shields.io/badge/Lattes_CV-CNPq-0E2515?style=flat"></a>
   <a href="https://www.researchgate.net/profile/Lucas-Aosf"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Lucas--Aosf-00CCBB?style=flat&logo=researchgate&logoColor=white"></a>
   <a href="https://instagram.com/lucas_aosf"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@lucas__aosf-E4405F?style=flat&logo=instagram&logoColor=white"></a>
   <a href="mailto:lucasaosf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucasaosf@gmail.com-86602E?style=flat&logo=gmail&logoColor=white"></a>
